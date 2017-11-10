@@ -16,7 +16,7 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## The "what" and "why" of open source (@Mikasa97 Le 'quoi' et le 'pourquoi' de l'open source)
 
 So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
 
